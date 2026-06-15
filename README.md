@@ -9,6 +9,7 @@
 [![Build Status](https://secure.travis-ci.org/kangax/fabric.js.svg?branch=master)](http://travis-ci.org/#!/kangax/fabric.js)
 [![Code Climate](https://d3s6mut3hikguw.cloudfront.net/github/kangax/fabric.js/badges/gpa.svg)](https://codeclimate.com/github/kangax/fabric.js)
 [![Coverage Status](https://coveralls.io/repos/kangax/fabric.js/badge.png?branch=master)](https://coveralls.io/r/kangax/fabric.js?branch=master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdomoinc%2Ffabricjs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdomoinc%2Ffabricjs?ref=badge_shield)
 
 <!-- npm, bower, CDNJS versions, downloads -->
 
@@ -280,3 +281,6 @@ SOFTWARE.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kangax/fabric.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdomoinc%2Ffabricjs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdomoinc%2Ffabricjs?ref=badge_large)
